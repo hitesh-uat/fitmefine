@@ -1,0 +1,328 @@
+[
+  {
+    "courseId": "a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c5d",
+    "teacherId": "user_8lGh03KmDqRx5N9P6L5ySzWuVt",
+    "teacherName": "Dr. Sarah Wilson",
+    "title": "Clinical Nutrition Certification",
+    "description": "Master evidence-based nutritional strategies for disease prevention and management.",
+    "category": "Nutrition",
+    "image": "https://images.pexels.com/photos/6646877/pexels-photo-6646877.jpeg",
+    "price": 14999,
+    "level": "Advanced",
+    "status": "Published",
+    "enrollments": [
+      {"userId": "user_2ntu96pUCljUV2T9W0AThzjacQB"},
+      {"userId": "user_9xWp45MnKjL8vRt2Hs6BqDcEy"}
+    ],
+    "sections": [
+      {
+        "sectionId": "b2c3d4e5-f6g7-4h8i-9j0k-1l2m3n4o5p6",
+        "sectionTitle": "Macronutrients & Micronutrients",
+        "sectionDescription": "Deep dive into essential nutrients and their clinical applications",
+        "chapters": [
+          {
+            "chapterId": "c3d4e5f6-g7h8-4i9j-0k1l-2m3n4o5p6q7",
+            "type": "Video",
+            "title": "Advanced Nutrient Metabolism",
+            "content": "https://example.com/videos/nutrient-metabolism.mp4",
+            "comments": []
+          },
+          {
+            "chapterId": "d4e5f6g7-h8i9-4j0k-1l2m-3n4o5p6q7r8",
+            "type": "Quiz",
+            "title": "Nutrient Absorption Quiz",
+            "content": "1. Explain fat-soluble vitamin absorption\n2. Describe iron bioavailability factors\n3. Outline zinc deficiency symptoms",
+            "comments": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "courseId": "e5f6g7h8-i9j0-4k1l-2m3n-4o5p6q7r8s9",
+    "teacherId": "user_3tFj67NmEpQw4Vb9Xc8KyLuIz",
+    "teacherName": "Dr. Michael Chen",
+    "title": "Mental Health First Aid",
+    "description": "Recognize and support individuals experiencing mental health crises",
+    "category": "Mental Health",
+    "image": "https://images.pexels.com/photos/4064203/pexels-photo-4064203.jpeg",
+    "price": 8999,
+    "level": "Beginner",
+    "status": "Published",
+    "enrollments": [
+      {"userId": "user_5vBn23WsLkMp7Jh4Gt8FxYcRz"}
+    ],
+    "sections": [
+      {
+        "sectionId": "f6g7h8i9-j0k1-4l2m-3n4o-5p6q7r8s9t0",
+        "sectionTitle": "Crisis Intervention",
+        "sectionDescription": "Practical techniques for mental health emergencies",
+        "chapters": [
+          {
+            "chapterId": "g7h8i9j0-k1l2-4m3n-4o5p-6q7r8s9t0u1",
+            "type": "Video",
+            "title": "De-escalation Strategies",
+            "content": "https://example.com/videos/deescalation.mp4",
+            "comments": []
+          },
+          {
+            "chapterId": "h8i9j0k1-l2m3-4n4o-5p6q-7r8s9t0u1v2",
+            "type": "Text",
+            "title": "Recognizing Warning Signs",
+            "content": "Detailed guide to identifying early signs of mental health crises...",
+            "comments": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "courseId": "v2w3x4y5-z6a7-4b8c-9d0e-1f2g3h4i5j6",
+    "teacherId": "user_7rYk89OlPhXw2Jq3Tn6MzSvUt",
+    "teacherName": "Emma Rodriguez",
+    "title": "Exercise Physiology Fundamentals",
+    "description": "Understand human movement and energy systems",
+    "category": "Exercise Science",
+    "image": "https://images.pexels.com/photos/6550820/pexels-photo-6550820.jpeg",
+    "price": 10999,
+    "level": "Intermediate",
+    "status": "Published",
+    "enrollments": [],
+    "sections": [
+      {
+        "sectionId": "w3x4y5z6-a7b8-4c9d-0e1f-2g3h4i5j6k7",
+        "sectionTitle": "Biomechanics",
+        "sectionDescription": "Analysis of human movement patterns",
+        "chapters": [
+          {
+            "chapterId": "x4y5z6a7-b8c9-4d0e-1f2g-3h4i5j6k7l8",
+            "type": "Video",
+            "title": "Gait Analysis",
+            "content": "https://example.com/videos/gait-analysis.mp4",
+            "comments": []
+          },
+          {
+            "chapterId": "y5z6a7b8-c9d0-4e1f-2g3h-4i5j6k7l8m9",
+            "type": "Quiz",
+            "title": "Biomechanics Principles Quiz",
+            "content": "1. Define torque in human movement\n2. Explain Newton's laws in exercise\n3. Describe muscle leverage systems",
+            "comments": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "courseId": "m3n4o5p6-q7r8-4s9t-0u1v-2w3x4y5z6a7",
+    "teacherId": "user_4pLm90KiNjBhVg67Fd8HsEwQz",
+    "teacherName": "Dr. James Thompson",
+    "title": "Public Health Epidemiology",
+    "description": "Disease patterns and population health strategies",
+    "category": "Public Health",
+    "image": "https://images.pexels.com/photos/4031867/pexels-photo-4031867.jpeg",
+    "price": 12999,
+    "level": "Advanced",
+    "status": "Published",
+    "enrollments": [
+      {"userId": "user_9xWp45MnKjL8vRt2Hs6BqDcEy"}
+    ],
+    "sections": [
+      {
+        "sectionId": "n4o5p6q7-r8s9-4t0u-1v2w-3x4y5z6a7b8",
+        "sectionTitle": "Outbreak Investigation",
+        "sectionDescription": "CDC-standard epidemiological methods",
+        "chapters": [
+          {
+            "chapterId": "o5p6q7r8-s9t0-4u1v-2w3x-4y5z6a7b8c9",
+            "type": "Text",
+            "title": "COVID-19 Pandemic Analysis",
+            "content": "Detailed case study of transmission patterns and mitigation strategies...",
+            "comments": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "courseId": "d0e1f2g3-h4i5-4j6k-7l8m-9n0o1p2q3r4",
+    "teacherId": "user_5qWs34ErTzYuI89O0P7XvFnGh",
+    "teacherName": "Linda Patel",
+    "title": "Yoga Therapy Certification",
+    "description": "Therapeutic applications of yoga for health conditions",
+    "category": "Mind-Body Medicine",
+    "image": "https://images.pexels.com/photos/1812964/pexels-photo-1812964.jpeg",
+    "price": 15999,
+    "level": "Intermediate",
+    "status": "Published",
+    "enrollments": [
+      {"userId": "user_6tHm89QwNpKj3Fx5Vy2RdLcBs"}
+    ],
+    "sections": [
+      {
+        "sectionId": "e1f2g3h4-i5j6-4k7l-8m9n-0o1p2q3r4s5",
+        "sectionTitle": "Adaptive Asanas",
+        "sectionDescription": "Modifications for different body types",
+        "chapters": [
+          {
+            "chapterId": "f2g3h4i5-j6k7-4l8m-9n0o-1p2q3r4s5t6",
+            "type": "Video",
+            "title": "Chair Yoga Sequences",
+            "content": "https://example.com/videos/chair-yoga.mp4",
+            "comments": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "courseId": "u1v2w3x4-y5z6-4a7b-8c9d-0e1f2g3h4i5",
+    "teacherId": "user_9oRn32TqWpXvB67J8KtLzYsEc",
+    "teacherName": "Dr. Rachel Green",
+    "title": "Pharmacology Essentials",
+    "description": "Mechanisms of drug action and therapeutic uses",
+    "category": "Medical Science",
+    "image": "https://images.pexels.com/photos/4386467/pexels-photo-4386467.jpeg",
+    "price": 17999,
+    "level": "Advanced",
+    "status": "Published",
+    "enrollments": [],
+    "sections": [
+      {
+        "sectionId": "v2w3x4y5-z6a7-4b8c-9d0e-1f2g3h4i5j6",
+        "sectionTitle": "Cardiovascular Drugs",
+        "sectionDescription": "Antihypertensives and anticoagulants",
+        "chapters": [
+          {
+            "chapterId": "w3x4y5z6-a7b8-4c9d-0e1f-2g3h4i5j6k7",
+            "type": "Quiz",
+            "title": "Drug Interactions Quiz",
+            "content": "1. List warfarin contraindications\n2. Explain ACE inhibitor mechanisms\n3. Identify beta blocker side effects",
+            "comments": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "courseId": "j6k7l8m9-n0o1-4p2q-3r4s-5t6u7v8w9x0",
+    "teacherId": "user_1aSd23FgHjKl78ZxCvBnMqWeR",
+    "teacherName": "Nadia Kowalski",
+    "title": "Pediatric Nutrition",
+    "description": "Nutritional needs from infancy through adolescence",
+    "category": "Child Health",
+    "image": "https://images.pexels.com/photos/3938022/pexels-photo-3938022.jpeg",
+    "price": 11999,
+    "level": "Intermediate",
+    "status": "Published",
+    "enrollments": [
+      {"userId": "user_5vBn23WsLkMp7Jh4Gt8FxYcRz"}
+    ],
+    "sections": [
+      {
+        "sectionId": "k7l8m9n0-o1p2-4q3r-5s4t-6u7v8w9x0y1",
+        "sectionTitle": "Feeding Strategies",
+        "sectionDescription": "Addressing picky eating and food allergies",
+        "chapters": [
+          {
+            "chapterId": "l8m9n0o1-p2q3-4r5s-6t7u-8v9w0x1y2z3",
+            "type": "Video",
+            "title": "Managing Food Allergies",
+            "content": "https://example.com/videos/food-allergies.mp4",
+            "comments": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "courseId": "z3a4b5c6-d7e8-4f9g-0h1i-2j3k4l5m6n7",
+    "teacherId": "user_2bNc34MdVfGhJ56KpLqWeRtYu",
+    "teacherName": "Dr. Henry Wong",
+    "title": "Geriatric Care Management",
+    "description": "Comprehensive care for aging populations",
+    "category": "Senior Health",
+    "image": "https://images.pexels.com/photos/416778/pexels-photo-416778.jpeg",
+    "price": 13999,
+    "level": "Advanced",
+    "status": "Published",
+    "enrollments": [],
+    "sections": [
+      {
+        "sectionId": "a4b5c6d7-e8f9-4g0h-1i2j-3k4l5m6n7o8",
+        "sectionTitle": "Cognitive Decline",
+        "sectionDescription": "Managing dementia and Alzheimer's",
+        "chapters": [
+          {
+            "chapterId": "b5c6d7e8-f9g0-4h1i-2j3k-4l5m6n7o8p9",
+            "type": "Text",
+            "title": "Multidisciplinary Care Approach",
+            "content": "Detailed guide to coordinating care between specialists...",
+            "comments": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "courseId": "q1w2e3r4-t5y6-4u7i-8o9p-0a1s2d3f4g5",
+    "teacherId": "user_3cVb45BnNmKl09JiHgFdSwErT",
+    "teacherName": "Sophia Martinez",
+    "title": "Health Coaching Certification",
+    "description": "Client-centered approach to behavior change",
+    "category": "Wellness",
+    "image": "https://images.pexels.com/photos/6454153/pexels-photo-6454153.jpeg",
+    "price": 9999,
+    "level": "Beginner",
+    "status": "Published",
+    "enrollments": [
+      {"userId": "user_2ntu96pUCljUV2T9W0AThzjacQB"}
+    ],
+    "sections": [
+      {
+        "sectionId": "w2e3r4t5-y6u7-4i8o-9p0a-1s2d3f4g5h6",
+        "sectionTitle": "Motivational Interviewing",
+        "sectionDescription": "Evidence-based communication techniques",
+        "chapters": [
+          {
+            "chapterId": "e3r4t5y6-u7i8-4o9p-0a1s-2d3f4g5h6j7",
+            "type": "Video",
+            "title": "Client Communication Techniques",
+            "content": "https://example.com/videos/motivational-interview.mp4",
+            "comments": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "courseId": "h6j7k8l9-z0x1-4c2v-3b4n-5m6q7w8e9r0",
+    "teacherId": "user_4dXf56CrFvGhJ78KiHtBgYnUm",
+    "teacherName": "Dr. Ethan Moore",
+    "title": "Medical Terminology Accelerated",
+    "description": "Master healthcare language in 4 weeks",
+    "category": "Healthcare",
+    "image": "https://images.pexels.com/photos/2280571/pexels-photo-2280571.jpeg",
+    "price": 7999,
+    "level": "Beginner",
+    "status": "Published",
+    "enrollments": [
+      {"userId": "user_9xWp45MnKjL8vRt2Hs6BqDcEy"}
+    ],
+    "sections": [
+      {
+        "sectionId": "j7k8l9z0-x1c2-4v3b-4n5m-6q7w8e9r0t1",
+        "sectionTitle": "Anatomy Terms",
+        "sectionDescription": "Root words and body systems",
+        "chapters": [
+          {
+            "chapterId": "k8l9z0x1-c2v3-4b4n-5m6q-7w8e9r0t1y2",
+            "type": "Quiz",
+            "title": "Body Systems Quiz",
+            "content": "1. Match prefixes to meanings\n2. Identify organ system roots\n3. Define common suffixes",
+            "comments": []
+          }
+        ]
+      }
+    ]
+  }
+]
